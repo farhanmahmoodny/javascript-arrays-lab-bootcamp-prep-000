@@ -8,5 +8,5 @@ function destructivelyAppendKitten(name){
 }
 
 function destructivelyPrependKitten(name){
-  console.log(kittens.unshitft(name))
+  console.log(kittens.unshift(name))
 }
