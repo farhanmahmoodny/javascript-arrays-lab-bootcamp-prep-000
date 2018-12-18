@@ -4,5 +4,5 @@ var kittens = ['Milo', 'Otis', 'Garfield'] //define your array here
 // Add your functions and code here
 
 function destructivelyAppendKitten(){
-  console.log(kittens.concat('Felix'))
+  console.log(kittens.concat('Ralph'))
 }
